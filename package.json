@@ -1,0 +1,11 @@
+{
+    "name": "my-static-website",
+    "version": "1.0.0",
+    "description": "A simple static web page",
+    "scripts": {
+        "start": "npm install && npm run serve"
+    },
+    "dependencies": {
+        "http-server": "^0.12.3"
+    }
+}
